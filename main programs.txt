@@ -1,0 +1,13 @@
+1. Regular Expressions
+2. Fsa 
+3. Morphological analysis
+4. Plural forms 
+5. N- grams or text prediction 
+6. POS tagging ( Just POS)
+7. Top down and early parser
+8. Grammatically correct or not.
+9. PCFG
+10. Named entity recognition
+11. TF-IDF
+12. Syntax driven semantic analysis
+13. gpt and machine translation
